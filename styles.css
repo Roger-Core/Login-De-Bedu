@@ -41,6 +41,8 @@ body {
 
 
 .login input {
+  border: solid 1px gray;
+  border-radius: 5px;
   width: 100%;
   margin: 10px;
   height: 30px;
